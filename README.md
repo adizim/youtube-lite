@@ -6,7 +6,6 @@ Uses Youtube API to power data and React to display search and viewing of 5 vide
 ## Usage
 Requires node/npm. 
 
-Clone the repository, then run
-`npm install`
-
-`npm start`
+1. Clone the repository
+2. `npm install`
+3. `npm start`
